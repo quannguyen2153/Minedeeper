@@ -5,11 +5,11 @@
 
 ## Features
 
-- Calculate probability
+- Probability Calculation
 
 - Hint
 
-- Analyze guessing
+- Guess Analysis
 
 ## How It Work
 
